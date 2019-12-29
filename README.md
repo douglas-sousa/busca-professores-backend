@@ -9,7 +9,7 @@ Ele foi dividido em dois repositórios.
 
 ## Demonstração da aplicação em produção
 
-Link para a aplicação em produção: `https://busca-professores-frontend.herokuapp.com/`
+Link para a aplicação em produção: https://busca-professores-frontend.herokuapp.com/
 
 ## Para instalar
 
