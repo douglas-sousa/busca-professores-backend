@@ -7,6 +7,10 @@ Ele foi dividido em dois repositórios.
 - Frontend: https://github.com/douglas-sousa/busca-professores-frontend
 - Backend: https://github.com/douglas-sousa/busca-professores-backend
 
+## Demonstração da aplicação em produção
+
+Link para a aplicação em produção: `https://busca-professores-frontend.herokuapp.com/`
+
 ## Para instalar
 
 Para ter o projeto em sua máquina local, você deverá:
